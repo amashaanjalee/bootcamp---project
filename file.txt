@@ -1,0 +1,8 @@
+
+-------------------------------------------------------------
+Weather Stats for - KADAWATHA  || 23 Jun 2021 | 09:33:12 PM
+-------------------------------------------------------------
+Current temperature is: 26.88 deg C
+Current weather desc  :overcast clouds
+Current Humidity      :85%
+Current wind speed    :3.93kmph
